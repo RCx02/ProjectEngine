@@ -32,6 +32,7 @@ namespace ProjectBall_Launcher
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.Exit = new System.Windows.Forms.Button();
             this.Minimize = new System.Windows.Forms.Button();
+            this.Website = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Exit
@@ -70,12 +71,31 @@ namespace ProjectBall_Launcher
             this.Minimize.UseVisualStyleBackColor = false;
             this.Minimize.Click += new System.EventHandler(this.Minimize_Click);
             // 
+            // Website
+            // 
+            this.Website.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.Website.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Website.BackgroundImage")));
+            this.Website.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.Website.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gray;
+            this.Website.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
+            this.Website.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Website.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Website.ForeColor = System.Drawing.Color.White;
+            this.Website.Location = new System.Drawing.Point(739, -1);
+            this.Website.Name = "Website";
+            this.Website.Size = new System.Drawing.Size(82, 26);
+            this.Website.TabIndex = 2;
+            this.Website.Text = "WEBSITE";
+            this.Website.UseVisualStyleBackColor = false;
+            this.Website.Click += new System.EventHandler(this.Website_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(908, 509);
+            this.Controls.Add(this.Website);
             this.Controls.Add(this.Minimize);
             this.Controls.Add(this.Exit);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -90,6 +110,7 @@ namespace ProjectBall_Launcher
 
         private System.Windows.Forms.Button Exit;
         private System.Windows.Forms.Button Minimize;
+        private System.Windows.Forms.Button Website;
     }
 }
 

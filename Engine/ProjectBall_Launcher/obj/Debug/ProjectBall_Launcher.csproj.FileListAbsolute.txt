@@ -8,3 +8,13 @@ D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBa
 D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.csproj.CoreCompileInputs.cache
 D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.exe
 D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.pdb
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.csproj.AssemblyReference.cache
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.Form1.resources
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.csproj.GenerateResource.cache
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.csproj.CoreCompileInputs.cache
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\bin\Debug\ProjectEngine.exe.config
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\bin\Debug\ProjectEngine.exe
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\bin\Debug\ProjectEngine.pdb
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\obj\Debug\ProjectEngine_Launcher.Properties.Resources.resources
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\obj\Debug\ProjectEngine.exe
+D:\[PROJECTS]\PB_REPOSITORY\Engine\ProjectBall_Launcher\obj\Debug\ProjectEngine.pdb

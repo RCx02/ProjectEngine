@@ -26,5 +26,10 @@ namespace ProjectBall_Launcher
         {
             this.Close();
         }
+
+        private void Website_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://rcx02.github.io/index.html");
+        }
     }
 }
