@@ -1,0 +1,10 @@
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\bin\Debug\ProjectBall_Launcher.exe.config
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\bin\Debug\ProjectBall_Launcher.exe
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\bin\Debug\ProjectBall_Launcher.pdb
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.csproj.AssemblyReference.cache
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.Form1.resources
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.Properties.Resources.resources
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.csproj.GenerateResource.cache
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.csproj.CoreCompileInputs.cache
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.exe
+D:\VisualStudio\PB\ProjectBall_Launcher\ProjectBall_Launcher\obj\Debug\ProjectBall_Launcher.pdb
